@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\Toy Store\Toy Store\bin\Debug\Toy Store.exe.config
+c:\users\wecancodeit\source\repos\Toy Store\Toy Store\bin\Debug\Toy Store.exe
+c:\users\wecancodeit\source\repos\Toy Store\Toy Store\bin\Debug\Toy Store.pdb
+c:\users\wecancodeit\source\repos\Toy Store\Toy Store\obj\Debug\Toy Store.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\source\repos\Toy Store\Toy Store\obj\Debug\Toy Store.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\Toy Store\Toy Store\obj\Debug\Toy Store.exe
+c:\users\wecancodeit\source\repos\Toy Store\Toy Store\obj\Debug\Toy Store.pdb
